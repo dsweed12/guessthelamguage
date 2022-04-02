@@ -16,7 +16,7 @@ try {
         { id: "code", name: "Code", title: "ISO-639-1 Code" },
         { id: "text", name: "Text", title: "text" },
       ],
-    });
+    })
     var data = [];
     const languages_list = languages_dom.querySelector("table tbody");
     var num = 0;
